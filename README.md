@@ -35,12 +35,6 @@ This project is a machine learning-powered web app that predicts the price of a 
 
 ---
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/laptop-price-predictor.git
-   cd laptop-price-predictor
 
 
  Author
